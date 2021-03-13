@@ -25,9 +25,15 @@ outline-offset: 0 !important;
 }
 button {
 font-family: 'Inter';
+background: #fff;
+border: 1px solid #e1e4e8;
+border-radius: 3px;
+padding: 5px;
 }
 .textarea {
 font-family: 'Inter';
+margin-top: 10px;
+margin-bottom: 10px;
 }
 input {
   font-family:'Inter';
