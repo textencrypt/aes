@@ -7,8 +7,7 @@ width: 100%;
 }
 
 .w2 {
-width: 50%;
-float: left;
+
 }
 .container {
 max-width: 82ch;
@@ -29,6 +28,7 @@ background: #fff;
 border: 1px solid #e1e4e8;
 border-radius: 3px;
 padding: 5px;
+margin-left:10px;
 }
 .textarea {
 font-family: 'Inter';
