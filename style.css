@@ -28,11 +28,11 @@ background: #fff;
 border: 1px solid #e1e4e8;
 border-radius: 3px;
 padding: 7px;
+margin-top:10px;
 }
 textarea {
 font-family: 'Inter';
 margin-top: 10px;
-margin-bottom: 10px;
 border: 1px solid #e1e4e8;
 border-radius: 6px;
 }
