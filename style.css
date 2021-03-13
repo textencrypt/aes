@@ -35,6 +35,7 @@ font-family: 'Inter';
 margin-top: 10px;
 border: 1px solid #e1e4e8;
 border-radius: 6px;
+resize: none;
 }
 input {
   font-family:'Inter';
