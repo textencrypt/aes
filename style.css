@@ -24,6 +24,9 @@ outline-offset: 0;
 button {
 font-family: 'Inter';
 }
-.textarea#dtext {
+.textarea {
 font-family: 'Inter';
+}
+input {
+  font-family:'Inter';
 }
