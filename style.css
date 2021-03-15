@@ -54,6 +54,9 @@ input {
   textarea {
     font-size:18px;
 }
+  .container {
+  padding:10px !important;
+  }
   input {
     font-size: 15px;
 }
