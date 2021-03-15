@@ -66,3 +66,8 @@ label {
     margin-left: 2%;
 }
 }
+@media (min-width:356px) and (max-width:420px) {
+  label {
+  display:inline-block;
+  }
+}
