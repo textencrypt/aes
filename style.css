@@ -28,6 +28,7 @@ background: #fff;
 border: 1px solid #e1e4e8;
 border-radius: 3px;
 padding: 7px;
+font-size:16px;
 margin-top:10px;
 }
 textarea {
@@ -35,12 +36,14 @@ font-family: 'Inter';
 margin-top: 10px;
 border: 1px solid #e1e4e8;
 border-radius: 6px;
+font-size:16px;
 resize: none;
 }
 input {
   font-family:'Inter';
   border: 1px solid #e1e4e8 !important;
   padding: 7px;
+  font-size:16px;
   border-radius: 6px;
 }
 @media (max-width:500px) {
